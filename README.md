@@ -1,1 +1,1 @@
-# Popeye[popeye.pdf](https://github.com/DylanFaure/Popeye/files/7780865/popeye.pdf)
+[embed]https://github.com/DylanFaure/Popeye/blob/main/popeye.pdf[/embed]
